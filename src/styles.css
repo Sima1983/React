@@ -29,7 +29,7 @@ body {
   color: #fff;
   font-size: 18px;
   border-radius: 25px;
-  background: #000;
+  background: blueviolet;
 }
 
 .player:nth-child(2) {
@@ -58,7 +58,7 @@ button {
   color: #fff;
   font-size: 18px;
   border-radius: 25px;
-  background: #000;
+  background:blueviolet;
   outline: none;
 }
 
